@@ -1,0 +1,14 @@
+fastapi
+requests
+pydantic
+python-dotenv
+langchain
+langchain-anthropic
+langchain-openai
+langchain-community
+langchain-openrouter
+langgraph
+langchain-mcp-adapters
+langchain-tavily
+chromadb
+pypdf
